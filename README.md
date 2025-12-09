@@ -28,3 +28,8 @@ during implementation, the goal is to showcase the potential of advanced edge de
 real-world image analysis tasks. This work is also intended to serve as a foundation for future
 improvements and integration with domain-specific applications like medical diagnostics and
 autonomous navigation.
+
+This project uses the Cityscapes dataset, which contains high-quality pixel-level annotations of urban street scenes.
+The dataset was downloaded from the official Cityscapes website after creating an account:
+
+🔗 https://www.cityscapes-dataset.com/downloads/
